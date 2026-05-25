@@ -1,0 +1,30 @@
+# Dependency directories
+backend/node_modules/
+frontend/node_modules/
+
+# Compiled output
+backend/dist/
+frontend/dist/
+frontend/.angular/
+frontend-app/
+
+# Environment configurations and secrets
+backend/.env
+.env
+
+# System files and IDE configurations
+.DS_Store
+.vscode/
+.history/
+.tmp-browser/
+
+# Diagnostic logs
+*.log
+backend/*.log
+frontend/*.log
+npm-debug.log
+yarn-error.log
+
+# Interview preparation guides and generated explanation materials
+explanation.md
+interview_guide.md
