@@ -2,6 +2,10 @@
 
 A role-based internal operations portal built with Angular 17 standalone components on the frontend and Express + TypeScript + MongoDB on the backend.
 
+## Demo
+
+https://github.com/Tanish-S-K/Mploychek_spa/assets/188676242/demo.mp4
+
 ---
 
 ## 1. Setup
