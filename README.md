@@ -4,7 +4,7 @@ A role-based internal operations portal built with Angular 17 standalone compone
 
 ## Demo
 
-https://github.com/Tanish-S-K/Mploychek_spa/assets/188676242/demo.mp4
+https://github.com/Tanish-S-K/Mploychek_spa/demo.mp4
 
 ---
 
