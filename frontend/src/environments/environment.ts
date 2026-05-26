@@ -1,1 +1,1 @@
-export const environment = { apiUrl: 'http://localhost:4000/api', delayMs: 1500 };
+export const environment = { apiUrl: 'https://mploychek-spa.onrender.com/api', delayMs: 1500 };
