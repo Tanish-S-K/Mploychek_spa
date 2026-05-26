@@ -330,12 +330,7 @@ Answer using only the database scope and portal guidelines. ${
 }
 
 const app = express();
-app.use(
-  cors({
-    origin: (origin, cb) => cb(null, isAllowedOrigin(origin)),
-    credentials: true
-  })
-);
+app.use(cors({ origin: '*' }));
 app.use(express.json());
 app.use(cookieParser());
 app.use(async (req, _res, next) => {
