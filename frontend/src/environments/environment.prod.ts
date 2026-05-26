@@ -2,6 +2,6 @@
 // Dependencies: none
 
 export const environment = {
-  apiUrl: 'https://mploychek-spa.onrender.com/',
+  apiUrl: 'https://mploychek-spa.onrender.com/api',
   delayMs: 0
 };
